@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "/home/louis/miniconda3/envs/ucl-dl/bin/python",
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true,
+    "python.dataScience.jupyterServerURI": "local"
+}
